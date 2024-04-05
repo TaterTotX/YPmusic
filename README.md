@@ -8,7 +8,7 @@
     极简风本地音乐播放器
 </p>
 
-## 下载安装地址
+## [安装地址](https://github.com/zypotato/YPmusic/releases/tag/music)
 
 ## 界面预览
 ![img.png](demo%2Fimg.png)
