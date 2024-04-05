@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="authority" />
+                    <option name="value" value="svc.eleduck.com" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="accept" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="accept-language" />
+                    <option name="value" value="zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="if-none-match" />
+                    <option name="value" value="W/&quot;df697428c39dc2fff3510c4adc81472c&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="origin" />
+                    <option name="value" value="https://eleduck.com" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="referer" />
+                    <option name="value" value="https://eleduck.com/" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua" />
+                    <option name="value" value="&quot;Chromium&quot;;v=&quot;122&quot;, &quot;Not(A:Brand&quot;;v=&quot;24&quot;, &quot;Microsoft Edge&quot;;v=&quot;122&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua-mobile" />
+                    <option name="value" value="?0" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua-platform" />
+                    <option name="value" value="&quot;macOS&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-dest" />
+                    <option name="value" value="empty" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-mode" />
+                    <option name="value" value="cors" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-site" />
+                    <option name="value" value="same-site" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="user-agent" />
+                    <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="7f414dfe-3055-4d8c-aff8-7d71d3014231" />
+              <option name="method" value="GET" />
+              <option name="name" value="https://svc.eleduck.com/api/v1/posts?page=2" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="page" />
+                    <option name="value" value="5" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://svc.eleduck.com/api/v1/posts?page=5" />
+            </requestState>
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="authority" />
+                    <option name="value" value="api.jijinhao.com" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="accept" />
+                    <option name="value" value="*/*" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="accept-language" />
+                    <option name="value" value="zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="if-modified-since" />
+                    <option name="value" value="Wed, 03 Apr 2024 07:00:54 GMT" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="origin" />
+                    <option name="value" value="https://www.cngold.org" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="referer" />
+                    <option name="value" value="https://www.cngold.org/" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua" />
+                    <option name="value" value="&quot;Chromium&quot;;v=&quot;122&quot;, &quot;Not(A:Brand&quot;;v=&quot;24&quot;, &quot;Microsoft Edge&quot;;v=&quot;122&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua-mobile" />
+                    <option name="value" value="?0" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-ch-ua-platform" />
+                    <option name="value" value="&quot;macOS&quot;" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-dest" />
+                    <option name="value" value="empty" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-mode" />
+                    <option name="value" value="cors" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="sec-fetch-site" />
+                    <option name="value" value="cross-site" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="user-agent" />
+                    <option name="value" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="d5056dc3-c2e8-418a-82d3-aa78b29775ed" />
+              <option name="method" value="GET" />
+              <option name="name" value="https://api.jijinhao.com/sQuoteCenter/kDataList.htm?code=JO_92233&amp;pageSize=100&amp;isCalc=false" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="code" />
+                    <option name="value" value="JO_92233" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="pageSize" />
+                    <option name="value" value="100" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="isCalc" />
+                    <option name="value" value="false" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://api.jijinhao.com/sQuoteCenter/kDataList.htm?code=JO_92233&amp;pageSize=100&amp;isCalc=false" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="a8b5bfae-032b-4ff4-b7e6-9e93537467d6" />
+  </component>
+</project>

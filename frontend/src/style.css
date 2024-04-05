@@ -1,0 +1,36 @@
+/*html {*/
+/*    background-color: rgb(255, 255, 255);*/
+/*    text-align: center;*/
+/*    color: white;*/
+/*}*/
+
+html {
+    background-image: url('./assets/images/cool-background.png'); /* 替换为您的图片URL */
+    background-size: cover; /* 背景图片覆盖整个页面 */
+    background-repeat: no-repeat; /* 不重复背景图片 */
+    background-attachment: fixed; /* 背景图片固定，不随页面滚动 */
+    background-color: rgba(255, 255, 255, 0.5); /* 白色背景色，透明度设置为0.5 */
+    text-align: center; /* 文本居中对齐 */
+    color: white; /* 文本颜色为白色 */
+}
+
+body {
+    margin: 0;
+    color: white;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+@font-face {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 400;
+    src: local(""),
+    url("assets/fonts/nunito-v16-latin-regular.woff2") format("woff2");
+}
+
+#app {
+    height: 100vh;
+    text-align: center;
+}
