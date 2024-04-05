@@ -8,7 +8,7 @@
     极简风本地音乐播放器
 </p>
 
-## [安装地址](https://github.com/zypotato/YPmusic/releases/tag/music)
+## 下载安装地址
 
 ## 界面预览
 ![img.png](demo%2Fimg.png)
@@ -20,4 +20,16 @@
 - Vue 3
 
 ## 环境配置说明
+>第一步：
+> 
+>安装go和node
 >
+>第二步：
+>
+```sh
+go install github.com/wailsapp/wails/v2/cmd/wails@latest 
+```
+>第三步
+```sh
+wails dev
+```
